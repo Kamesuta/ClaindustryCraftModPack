@@ -1,11 +1,11 @@
 {
   "name" : "Pack9",
   "title" : "ClaindustryCraft",
-  "thumb" : null,
+  "thumb" : "https://i.gyazo.com/cc89dff55cd4a17eb930ed1369f89a48.png",
   "key" : null,
   "gameVersion" : "1.7.10",
   "server" : {
-    "serverHost" : "",
+    "serverHost" : "teamsousuke.dip.jp",
     "serverPort" : 25565
   },
   "features" : [
