@@ -1,1 +1,3 @@
 ClaindustryCraftModPack
+
+ClaindustryCraftのFruitLauncher向けModPackリポジトリです
